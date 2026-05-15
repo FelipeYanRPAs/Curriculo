@@ -7,13 +7,13 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em automação de p
 Tenho experiência prática com automações utilizando n8n, integração de sistemas e workflows com IA, buscando aplicar meus conhecimentos em projetos reais e ambiente profissional.
 
 Atualmente estudo:
-- JavaScript
-- Node.js
+- JavaScript (estudando)
 - APIs REST
 - Automação com IA
 - Git/GitHub
 - SQL
 - Testes e automação web
+- Redes de computadores (estudando)
 
 ---
 
@@ -27,6 +27,8 @@ Atualmente estudo:
 - Google Sheets
 - Excel
 - IA aplicada à automação
+- Cisco e Wireshark
+- VS Code
 
 ---
 
@@ -59,7 +61,11 @@ Análise e Desenvolvimento de Sistemas – UNICEPLAC
 
 ## 📫 Contato
 
-📧 felipeyan.salsicha@gmail.com
+📧 felipeyan.eb@gmail.com
+
+🌐 LinkedIn
+
+https://www.linkedin.com/in/felipe-yan-87a331376/
 
 💻 GitHub:
 [FelipeYanRPAs](https://github.com/FelipeYanRPAs?utm_source=chatgpt.com)
